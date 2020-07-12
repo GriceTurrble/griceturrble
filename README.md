@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello world! 👋
+
+I am a software engineer living in New Jersey, fluent in Python and the Django framework.
+
+Currently working on [`python-amazon-mws`](https://github.com/python-amazon-mws/python-amazon-mws), as well.
+
+- **Pronouns**: he/him
+- **Currently learning**: Django DRF with Vue.js
 
 <!--
 **GriceTurrble/griceturrble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
