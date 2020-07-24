@@ -1,7 +1,7 @@
 ### Hello world! 👋
 
 - **Pronouns**: he/him
-- **Learning**: Django DRF with Vue.js
+- **Learning**: Django DRF with Vue.js, Docker, and all the fancypants web tech that seems to move so quickly these days.
 - **Working on**:
   - [`python-amazon-mws`][1], a pure-Python wrapper for the Amazon MWS API.
   - Personal website projects, a blog, random little projects.
