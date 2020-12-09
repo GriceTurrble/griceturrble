@@ -3,7 +3,8 @@
 - **Pronouns**: he/him
 - **Learning**: Django DRF with Vue.js, Docker, and all the fancypants web tech that seems to move so quickly these days.
 - **Working on**:
-  - [`python-amazon-mws`][1], a pure-Python wrapper for the Amazon MWS API.
+  - [`python-amazon-mws`][pam_link], a pure-Python wrapper for the Amazon MWS API.
+  - [`python-amazon-spapi`][pasapi_link], a successor to python-amazon-mws to utilize Amazon's Selling Partner API.
   - Personal website projects, a blog, random little projects.
 
 I am a software engineer living in New Jersey, employed at Bank of America as a Software Engineer II in the Global Technology & Operations division. Fluent in Python, the Django framework, and developing on Windows (we exist!) while deploying on Linux.
