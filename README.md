@@ -1,34 +1,50 @@
-### Hello world! 👋
+[![GalenRice.com, my personal blog](https://img.shields.io/badge/GalenRice.com-purple?style=for-the-badge)][galenrice.com]
+[![Check me out on LinkedIn](https://img.shields.io/badge/Galen%20Rice-blue?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin]
+[![Follow me on Reddit](https://img.shields.io/badge/u/GriceTurrble-orangered?logo=reddit&logoColor=white&style=for-the-badge)][griceturrble-reddit]
+[![Follow me on Twitter](https://img.shields.io/badge/@JustTurrble-blue?logo=twitter&logoColor=white&style=for-the-badge)][justturrble-twitter]
 
-- **Pronouns**: he/him
-- **Learning**: Django DRF with Vue.js, Docker, and all the fancypants web tech that seems to move so quickly these days.
-- **Working on**:
-  - [`python-amazon-mws`][pam_link], a pure-Python wrapper for the Amazon MWS API.
-  - [`python-amazon-spapi`][pasapi_link], a successor to python-amazon-mws to utilize Amazon's Selling Partner API.
-  - Personal website projects, a blog, random little projects.
+👋🏻 I'm Galen (he/him), a developer with broad webdev knowledge who specializes in backend engineering using **Python** and the **Django** framework. Have been working with both since 2014.
 
-I am a software engineer living in New Jersey, employed at Bank of America as a Software Engineer II in the Global Technology & Operations division. Fluent in Python, the Django framework, and developing on Windows (we exist!) while deploying on Linux.
+I have a small [personal blog][galenrice.com] (hosted [here on GitHub!][galenrice.com-repo]) where I (infrequently) write on topics that interest me and intermediate-level tutorials related to Django and Python (no tutorial hell here).
 
-> **Disclaimer**: everything I say or write here, on GitHub, on my profile, in messages, in emails, in the ether, etc.; is a representation of me and me alone. I do not represent Bank of America, I am not advertising for them, I do not speak for them, etc. I just work here!
+## ⚙ Working with...
 
-Previously I worked for an e-commerce firm that sold products on the Amazon marketplace, among others. For that firm, I built a proprietary inventory management system in Django, using Zurb Foundation, some vanilla JS, a touch of Vue, PDF generation in ReportLab, and some light hardware integration. Hooked it up to the Amazon MWS API to do some automated shipment and listing updates. (That system is closed source held by the firm, so while I can talk some shop privately and share my experience, you won't find that system here. Sorry!)
+- Python-based microservices communicating via JSON-RPC
+- Django (models, migrations, APIs in DRF, all of it)
+- Docker
+- SQL, with a preference for PostgreSQL
+- [HTMX] and [Hyperscript]
 
-Per that work, I got interested in the package used to speak to Amazon MWS, [`python-amazon-mws`][pam_link]. I am now one of the maintainers on that project, which is not yet to a 1.0 release status. Help is appreciated, both there and with the newer [`python-amazon-spapi`][pasapi_link] as well!
+## 🛠 Familiar with (though no expert in)...
 
-<!--
-**GriceTurrble/griceturrble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Django REST Framework
+- Flask
+- JavaScript
+- GitHub Actions
 
-Here are some ideas to get you started:
+## Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- _All of the above; it never stops!_
+- FastAPI
+- Ansible
+- Jenkins
 
-[pam_link]: https://github.com/python-amazon-mws/python-amazon-mws
-[pasapi_link]: https://github.com/python-amazon-mws/python-amazon-spapi
+## Other stuff
+
+For details on my work history, please check out my [LinkedIn profile][linkedin].
+
+I am a maintainer on [python-amazon-mws], a pure-Python wrapper for Amazon's MWS API. Said MWS is in decline, in favor of Amazon's newer SP-API; and unfortunately I have neither the time nor interest to make the leap where others have already done some fine work.
+
+## 🙏🏻 Sponsorship
+
+Like the work I'm doing and want to see more? Please consider [giving a tip or subscribing][github-sponsors-page].
+
+[galenrice.com-repo]: https://github.com/griceTurrble/galenrice.com
+[galenrice.com]: https://galenrice.com
+[griceturrble-reddit]: https://www.reddit.com/user/griceturrble
+[htmx]: https://htmx.org
+[hyperscript]: https://hyperscript.org
+[justturrble-twitter]: https://twitter.com/JustTurrble
+[linkedin]: https://www.linkedin.com/in/thegman/
+[python-amazon-mws]: https://github.com/python-amazon-mws/python-amazon-mws
+[github-sponsors-page]: https://github.com/sponsors/GriceTurrble
