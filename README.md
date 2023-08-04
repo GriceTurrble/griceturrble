@@ -9,25 +9,27 @@ I have a small [personal blog][galenrice.com] (hosted [here on GitHub!][galenric
 
 ## ⚙ Working with...
 
-- Python-based microservices communicating via JSON-RPC
-- Django (models, migrations, APIs in DRF, all of it)
+- FastAPI
+- Pandas
+- Polars
 - Docker
 - SQL, with a preference for PostgreSQL
 - [HTMX] and [Hyperscript]
+- GitHub Actions
 
 ## 🛠 Familiar with (though no expert in)...
 
+- Django (models, migrations, APIs in DRF, all of it)
 - Django REST Framework
 - Flask
 - JavaScript
-- GitHub Actions
 
 ## Learning
 
 - _All of the above; it never stops!_
-- FastAPI
-- Ansible
-- Jenkins
+- Helm charts
+- Kubernetes
+- C#
 
 ## Other stuff
 
