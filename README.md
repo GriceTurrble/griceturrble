@@ -12,7 +12,6 @@ I have a small [personal blog][galenrice.com] (hosted [here on GitHub!][galenric
 - Polars
 - Docker
 - SQL, with a preference for PostgreSQL
-- [HTMX] and [Hyperscript]
 - GitHub Actions
 
 ## 🛠 Familiar with (though no expert in)...
@@ -25,6 +24,8 @@ I have a small [personal blog][galenrice.com] (hosted [here on GitHub!][galenric
 ## Learning
 
 - _All of the above; it never stops!_
+- Rust
+- PyO3
 - Helm charts
 - Kubernetes
 - C#
