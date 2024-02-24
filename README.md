@@ -1,7 +1,5 @@
 [![GalenRice.com, my personal blog](https://img.shields.io/badge/GalenRice.com-purple?style=for-the-badge)][galenrice.com]
 [![Check me out on LinkedIn](https://img.shields.io/badge/Galen%20Rice-blue?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin]
-[![Follow me on Reddit](https://img.shields.io/badge/u/GriceTurrble-orangered?logo=reddit&logoColor=white&style=for-the-badge)][griceturrble-reddit]
-[![Follow me on Twitter](https://img.shields.io/badge/@JustTurrble-blue?logo=twitter&logoColor=white&style=for-the-badge)][justturrble-twitter]
 
 👋🏻 I'm Galen (he/him), a developer with broad webdev knowledge who specializes in backend engineering using **Python** and the **Django** framework. Have been working with both since 2014.
 
