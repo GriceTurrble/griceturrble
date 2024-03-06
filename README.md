@@ -1,9 +1,7 @@
 [![GalenRice.com, my personal blog](https://img.shields.io/badge/GalenRice.com-purple?style=for-the-badge)][galenrice.com]
 [![Check me out on LinkedIn](https://img.shields.io/badge/Galen%20Rice-blue?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin]
 
-👋🏻 I'm Galen (he/him), a developer with broad webdev knowledge who specializes in backend engineering using **Python** and the **Django** framework. Have been working with both since 2014.
-
-I have a small [personal blog][galenrice.com] (hosted [here on GitHub!][galenrice.com-repo]) where I (infrequently) write on topics that interest me and intermediate-level tutorials related to Django and Python (no tutorial hell here).
+👋🏻 I'm Galen (he/him), a developer with broad webdev knowledge who specializes in backend engineering using **Python** and the **Django** and **FastAPI** frameworks. Have been working within the Python ecosystem since 2014. Starting 2024 I have also been picking up C#, Rust, and some Angular.
 
 ## ⚙ Working with...
 
