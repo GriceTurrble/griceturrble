@@ -1,49 +1,57 @@
-[![GalenRice.com, my personal blog](https://img.shields.io/badge/GalenRice.com-purple?style=for-the-badge)][galenrice.com]
 [![Check me out on LinkedIn](https://img.shields.io/badge/Galen%20Rice-blue?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin]
 
-👋🏻 I'm Galen (he/him), a developer with broad webdev knowledge who specializes in backend engineering using **Python** and the **Django** and **FastAPI** frameworks. Have been working within the Python ecosystem since 2014. Starting 2024 I have also been picking up C#, Rust, and some Angular.
+👋🏻 I'm Galen (he/him),
+a professional developer with broad webdev knowledge who specializes in backend engineering since 2014,
+particularly using Python frameworks like [FastAPI], [Django], and [Polars].
+More recently I've been learning Rust and Java,
+looking for ways to augment or replace existing processes with more efficient tooling.
+
+I'm also quite fond of building developer-centric tooling, processes, and documentation.
 
 ## ⚙ Working with...
 
-- FastAPI
-- Pandas
-- Polars
-- Docker
-- SQL, with a preference for PostgreSQL
+- Python
+- [FastAPI], [Django], [Flask]
+- [Polars], [Pandas]
+- Docker, Kubernetes, Helm charts
+- [Tilt]
+- PostgreSQL
 - GitHub Actions
+- GCP (BigQuery, BigTable, PubSub, GKE)
+- [MkDocs] static sites (preference for [Material for MkDocs])
 
 ## 🛠 Familiar with (though no expert in)...
 
-- Django (models, migrations, APIs in DRF, all of it)
-- Django REST Framework
-- Flask
 - JavaScript
+- TypeScript
+- TailwindCSS
+- C# (ASP.NET)
 
 ## Learning
 
 - _All of the above; it never stops!_
-- Rust
-- PyO3
-- Helm charts
-- Kubernetes
-- C#
+- Rust (particular [Polars] and the [poem framework][poem-rust])
+- PyO3, rust crates with Python bindings
+- Java ([Spring Boot])
 
 ## Other stuff
 
-For details on my work history, please check out my [LinkedIn profile][linkedin].
-
-I am a maintainer on [python-amazon-mws], a pure-Python wrapper for Amazon's MWS API. Said MWS is in decline, in favor of Amazon's newer SP-API; and unfortunately I have neither the time nor interest to make the leap where others have already done some fine work.
+For details on my work history,
+please check out my [LinkedIn].
 
 ## 🙏🏻 Sponsorship
 
-Like the work I'm doing and want to see more? Please consider [giving a tip or subscribing][github-sponsors-page].
+Do you like the work I'm doing and want to see more?
+Please consider [leaving a tip][sponsorship]!
 
-[galenrice.com-repo]: https://github.com/griceTurrble/galenrice.com
-[galenrice.com]: https://galenrice.com
-[griceturrble-reddit]: https://www.reddit.com/user/griceturrble
-[htmx]: https://htmx.org
-[hyperscript]: https://hyperscript.org
-[justturrble-twitter]: https://twitter.com/JustTurrble
+[django]: https://www.djangoproject.com/
+[fastapi]: https://fastapi.tiangolo.com/
+[sponsorship]: https://github.com/sponsors/GriceTurrble
 [linkedin]: https://www.linkedin.com/in/thegman/
-[python-amazon-mws]: https://github.com/python-amazon-mws/python-amazon-mws
-[github-sponsors-page]: https://github.com/sponsors/GriceTurrble
+[material for mkdocs]: https://squidfunk.github.io/mkdocs-material/
+[mkdocs]: https://www.mkdocs.org/
+[pandas]: https://pandas.pydata.org/pandas-docs/stable/index.html
+[poem-rust]: https://github.com/poem-web/poem
+[polars]: https://pola.rs/
+[spring boot]: https://spring.io/projects/spring-boot
+[tilt]: https://tilt.dev/
