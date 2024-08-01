@@ -46,12 +46,13 @@ Please consider [leaving a tip][sponsorship]!
 
 [django]: https://www.djangoproject.com/
 [fastapi]: https://fastapi.tiangolo.com/
-[sponsorship]: https://github.com/sponsors/GriceTurrble
+[flask]: https://flask.palletsprojects.com/en/3.0.x/
 [linkedin]: https://www.linkedin.com/in/thegman/
 [material for mkdocs]: https://squidfunk.github.io/mkdocs-material/
 [mkdocs]: https://www.mkdocs.org/
 [pandas]: https://pandas.pydata.org/pandas-docs/stable/index.html
 [poem-rust]: https://github.com/poem-web/poem
 [polars]: https://pola.rs/
+[sponsorship]: https://github.com/sponsors/GriceTurrble
 [spring boot]: https://spring.io/projects/spring-boot
 [tilt]: https://tilt.dev/
