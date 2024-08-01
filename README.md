@@ -31,7 +31,7 @@ I'm also quite fond of building developer-centric tooling, processes, and docume
 
 - _All of the above; it never stops!_
 - Rust (particularly [Polars] and the [poem framework][poem-rust])
-- PyO3, rust crates with Python bindings
+- [PyO3]
 - Java ([Spring Boot])
 
 ## Other stuff
@@ -53,6 +53,7 @@ Please consider [leaving a tip][sponsorship]!
 [pandas]: https://pandas.pydata.org/pandas-docs/stable/index.html
 [poem-rust]: https://github.com/poem-web/poem
 [polars]: https://pola.rs/
+[pyo3]: https://github.com/PyO3/pyo3
 [sponsorship]: https://github.com/sponsors/GriceTurrble
 [spring boot]: https://spring.io/projects/spring-boot
 [tilt]: https://tilt.dev/
