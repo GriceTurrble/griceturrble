@@ -30,7 +30,7 @@ I'm also quite fond of building developer-centric tooling, processes, and docume
 ## Learning
 
 - _All of the above; it never stops!_
-- Rust (particular [Polars] and the [poem framework][poem-rust])
+- Rust (particularly [Polars] and the [poem framework][poem-rust])
 - PyO3, rust crates with Python bindings
 - Java ([Spring Boot])
 
