@@ -8,6 +8,23 @@ looking for ways to augment or replace existing processes with more efficient to
 
 I'm also quite fond of building developer-centric tooling, processes, and documentation.
 
+---
+
+<table align="center"><tr><td align="center">
+
+[![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=griceturrble&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=griceturrble&show_icons=true&theme=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+</td>
+<td align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=griceturrble&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</td></tr></table>
+
+---
+
 ## ⚙ Working with...
 
 - Python
