@@ -28,6 +28,7 @@ I'm also quite fond of building developer-centric tooling, processes, and docume
 ## ⚙ Working with...
 
 - Python
+- Ruby
 - [FastAPI], [Django], [Flask]
 - [Polars], [Pandas]
 - Docker, Kubernetes, Helm charts
@@ -41,15 +42,16 @@ I'm also quite fond of building developer-centric tooling, processes, and docume
 
 - JavaScript
 - TypeScript
+- react
 - TailwindCSS
 - C# (ASP.NET)
+- Java (Spring Boot)
 
 ## Learning
 
 - _All of the above; it never stops!_
 - Rust (particularly [Polars] and the [poem framework][poem-rust])
 - [PyO3]
-- Java ([Spring Boot])
 
 ## Other stuff
 
@@ -72,5 +74,4 @@ Please consider [leaving a tip][sponsorship]!
 [polars]: https://pola.rs/
 [pyo3]: https://github.com/PyO3/pyo3
 [sponsorship]: https://github.com/sponsors/GriceTurrble
-[spring boot]: https://spring.io/projects/spring-boot
 [tilt]: https://tilt.dev/
