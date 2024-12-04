@@ -3,7 +3,7 @@
 👋🏻 I'm Galen (he/him),
 a professional developer with broad webdev knowledge who specializes in backend engineering since 2014,
 particularly using Python frameworks like [FastAPI], [Django], and [Polars].
-More recently I've been learning Rust and Java,
+More recently I've been learning Rust,
 looking for ways to augment or replace existing processes with more efficient tooling.
 
 I'm also quite fond of building developer-centric tooling, processes, and documentation.
