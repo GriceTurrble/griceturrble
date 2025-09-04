@@ -42,15 +42,14 @@ I'm also quite fond of building developer-centric tooling, processes, and docume
 
 - JavaScript
 - TypeScript
-- react
+- React
 - TailwindCSS
 - C# (ASP.NET)
-- Java (Spring Boot)
 
 ## Learning
 
 - _All of the above; it never stops!_
-- Rust (particularly [Polars] and the [poem framework][poem-rust])
+- Rust (particularly the [loco framework][loco-rust])
 - [PyO3]
 
 ## Other stuff
@@ -70,7 +69,7 @@ Please consider [leaving a tip][sponsorship]!
 [material for mkdocs]: https://squidfunk.github.io/mkdocs-material/
 [mkdocs]: https://www.mkdocs.org/
 [pandas]: https://pandas.pydata.org/pandas-docs/stable/index.html
-[poem-rust]: https://github.com/poem-web/poem
+[loco-rust]: https://loco.rs/
 [polars]: https://pola.rs/
 [pyo3]: https://github.com/PyO3/pyo3
 [sponsorship]: https://github.com/sponsors/GriceTurrble
