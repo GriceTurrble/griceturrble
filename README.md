@@ -28,7 +28,7 @@ I'm also quite fond of building developer-centric tooling, processes, and docume
 ## ⚙ Working with...
 
 - Python
-- Ruby
+- React (mostly Next.js)
 - [FastAPI], [Django], [Flask]
 - [Polars], [Pandas]
 - Docker, Kubernetes, Helm charts
@@ -42,14 +42,9 @@ I'm also quite fond of building developer-centric tooling, processes, and docume
 
 - JavaScript
 - TypeScript
-- React
 - TailwindCSS
 - C# (ASP.NET)
-
-## Learning
-
-- _All of the above; it never stops!_
-- Rust (particularly the [loco framework][loco-rust])
+- Rust
 - [PyO3]
 
 ## Other stuff
